@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "117485262646",
+    "firebase_url": "https://notzeez-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "notzeez",
+    "storage_bucket": "notzeez.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:117485262646:android:5eb8a072acc0cbcff44597",
+        "android_client_info": {
+          "package_name": "com.rmaproject.notzeez"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "117485262646-tfo5ok900dpqrhp4pc5kqvsi0vvjctqf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmywPMiUALQJQI4iMd5qyVOBRpYq0SrZg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "117485262646-tfo5ok900dpqrhp4pc5kqvsi0vvjctqf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
